@@ -16,11 +16,12 @@
         <link rel="stylesheet" href="stylesheets/foundation.min.css">
         <link rel="stylesheet" href="stylesheets/app.css">
 
-        <script src="javascripts/modernizr.foundation.js"></script>
+        <script src="javascripts/modernizr.foundation.js">
+        <script src="javascripts/google-analytics.js">
 
         <!-- IE Fix for HTML5 Tags -->
         <!--[if lt IE 9]>
-        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js">
         <![endif]-->
 
     </head>

@@ -60,10 +60,24 @@
                             <li><a href="http://fluentular.heroku.com">Fluentular</a> | A Fluentd regular expression editor</li>
                         </ul>
                     </section>
-                    <p><a href="https://github.com/Tomohiro">and more projects...</p>
+                    <p><a href="https://github.com/Tomohiro">and more projects...</a></p>
                 </div>
             </div>
         </article>
+
+        <footer>
+            <h3>Elsewhere</h3>
+            <div class="row">
+                <div class="twelove columns">
+                <section id="accounts">
+                <p>
+                    <a href="https://github.com/Tomohiro">GitHub</a> /
+                    <a href="https://coderwall.com/Tomohiro">Coderwall</a> /
+                    <a href="https://twitter.com/Tomohiro">Twitter</a>
+                </p>
+                </section>
+            </div>
+        </footer>
 
         <!-- Included JS Files (Compressed) -->
         <script src="javascripts/foundation.min.js"></script>

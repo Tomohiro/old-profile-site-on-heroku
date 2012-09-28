@@ -26,20 +26,22 @@
         <article>
             <h2>About me</h2>
             <section id="profile">
-            <p>I'm Tomohiro, TAIRA and a web application developer.</p>
+            <p>I'm Tomohiro TAIRA. A web application developer.</p>
             </section>
         </article>
 
         <article>
             <h2>Portfolio</h2>
-            I'm create software, mostly in shell or Ruby.
+            I'm create software, mostly in Shell or Ruby.
             <div class="row">
                 <div class="twelove columns">
                     <section id="projects">
                         <h3>Open-source software projects</h3>
                         <ul>
+                            <li><a href="http://tomohiro.github.com/airplayer">AirPlayer</a>, Command-line AirPlay video client for Apple TV</li>
                             <li><a href="http://tomohiro.github.com/bundlizer">Bundlizer</a>, RubyGems and Bundler application manager</li>
                             <li><a href="http://tomohiro.github.com/redmine_irc_gateway">Redmine IRC Gateway</a>, Provides an access to Redmine API via IRC Gateway</li>
+                            <li><a href="http://tomohiro.github.com/downcer">Downcer</a>, Command-line download tools helper</li>
                             <li><a href="https://github.com/Tomohiro/p">p</a>, Anything distribution package management wrapper</li>
                         </ul>
                     </section>

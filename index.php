@@ -1,2 +1,2 @@
 <?php
-http_redirect('http://tomohiro.me')
+http_redirect('http://tomohiro.me');
